@@ -10,5 +10,7 @@ Welcome to the 'Belly-Button_Challenge' Repository. This challenge utilized JSON
 
 ---'static': Repository containing a directory 'js' which contians the main JavaScript code for the dashboard ('app.js')
 
+Please note: The dashboard can be viewed via a GitHub page at: https://makramsey.github.io/Belly-Button_Challenge
+
 
 Cheers!
