@@ -2,7 +2,7 @@
 
 Greetings,
 
-Welcome to the JavaScript-Dashboard repository! This project utilized JavaScript, D3 and Plotly to explore and generate an interactive dashboard for a belly button biodiversity dataset, which catalogs the microbial levels that colonize human navels.
+Welcome to the JavaScript-Dashboard repository! This project utilized JavaScript, HTML, D3 and Plotly to explore and generate an interactive dashboard for a belly button biodiversity dataset, which catalogs the microbial levels that colonize human navels.
 
 
 **Repository Structure:**
